@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@import "flowbite/src/themes/default";
+
+.bg-img{
+
+    background-color: #f0faf1;
+    background-size: cover;
+}
